@@ -1,0 +1,44 @@
+{
+  "name": "expo-persian-date-wheel",
+  "version": "1.0.0",
+  "description": "A beautiful, customizable Persian/Jalali date and time wheel picker for Expo and React Native",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "expo",
+    "react-native",
+    "persian",
+    "jalali",
+    "datepicker",
+    "datetimepicker",
+    "farsi",
+    "ir",
+    "calendar",
+    "persian-calendar",
+    "date-picker"
+  ],
+  "author": "Ali Sabet",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alisabet95/expo-persian-date-wheel"
+  },
+  "bugs": {
+    "url": "https://github.com/alisabet95/expo-persian-date-wheel/issues"
+  },
+  "homepage": "https://github.com/alisabet95/expo-persian-date-wheel#readme",
+  "peerDependencies": {
+    "moment-jalaali": ">=0.9.0",
+    "react": ">=16.8.0",
+    "react-native": ">=0.60.0"
+  },
+  "devDependencies": {
+    "@types/moment-jalaali": "^0.7.9",
+    "@types/react": "^19.2.17",
+    "typescript": "^6.0.3"
+  }
+}
