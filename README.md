@@ -12,17 +12,12 @@ A beautiful, customizable Persian/Jalali date wheel picker for React Native and 
 
 ## 📸 Screenshots / تصاویر
 
-| Adeleh (Light) |
-| (screenshots/screenshot3.jpg) (
-
-| Atlas (Dark) |
-| (screenshots/screenshot6.jpg) |
-
-| Shadi (Dark) |
-| (screenshots/screenshot1.jpg) |
-
-| Esi (Light) |
-| (screenshots/screenshot4.jpg) |
+| Theme          | Screenshot                       |
+| -------------- | -------------------------------- |
+| Adeleh (Light) | ![](screenshots/screenshot3.jpg) |
+| Atlas (Dark)   | ![](screenshots/screenshot6.jpg) |
+| Shadi (Dark)   | ![](screenshots/screenshot1.jpg) |
+| Esi (Light)    | ![](screenshots/screenshot4.jpg) |
 
 ---
 
