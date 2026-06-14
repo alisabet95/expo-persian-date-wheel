@@ -6,14 +6,23 @@
 A beautiful, customizable Persian/Jalali date wheel picker for React Native and Expo with multiple elegant themes.
 
 یک انتخابگر تاریخ و زمان چرخ‌مانند فارسی زیبا و قابل تنظیم برای ری‌اکت نیتیو و اکسپو با چندین تم زیبا
+با استفاده از moment-jalaali
 
 ---
 
 ## 📸 Screenshots / تصاویر
 
-| Adeleh (Light) | Atlas (Dark) | Shadi (Dark) | Esi (Light)  |
-| -------------- | ------------ | ------------ | ------------ |
-| (Screenshot)   | (Screenshot) | (Screenshot) | (Screenshot) |
+| Adeleh (Light) |
+| (Screenshots/screenshot (3).jpg) (
+
+| Atlas (Dark) |
+| (Screenshots/screenshot (6).jpg) |
+
+| Shadi (Dark) |
+|(Screenshots/screenshot (1).jpg) |
+
+| Esi (Light) |
+|Screenshots/screenshot (4).jpg) |
 
 ---
 
